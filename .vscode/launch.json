@@ -5,13 +5,13 @@
   "version": "0.2.0",
   "configurations": [
     // Example launch of a python file
-    {
+    /*{
       "name": "Python: Current File",
       "type": "python",
       "request": "launch",
       "program": "${file}",
       "console": "integratedTerminal",
-    },
+    },*/
     // Example gdb launch of a ros executable
     {
       "name": "(gdb) Launch",
